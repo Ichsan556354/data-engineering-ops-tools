@@ -1,0 +1,17 @@
+{
+    "players":
+    [
+        {
+            "name": "Bruno Fernandes",
+            "team": "Manchester United"
+        },
+        {
+            "name": "Kevin de Bruyne",
+            "team": "Manchester City"
+        },
+        {
+            "name": "Luka Modric", 
+            "team": "Real Madrid"
+        }
+    ]
+}
